@@ -5,10 +5,6 @@
 # Deletes files with a created time older than ...
 # in the directory containing this script
 
-# TODO
-# (1) Fix the matching of NAMES_IN_DIR and NAMES_TO_IGNORE, especially
-#     considering relative path names (and vs absolute path names)
-
 # CONFIGURABLES   | EXPLANATION
 # ------------------------------------------------------------------|
 # AGE_ALLOWED     | files older than this int in seconds are deleted|
